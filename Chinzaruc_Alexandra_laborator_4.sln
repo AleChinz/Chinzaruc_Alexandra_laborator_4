@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinzaruc_Alexandra_laborator_4", "Chinzaruc_Alexandra_laborator_4.csproj", "{F4816364-2631-4F64-AD5B-D59AD2B79B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{16C5CDDA-EC4B-4527-A947-F549C49EC14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4816364-2631-4F64-AD5B-D59AD2B79B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4816364-2631-4F64-AD5B-D59AD2B79B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4816364-2631-4F64-AD5B-D59AD2B79B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4816364-2631-4F64-AD5B-D59AD2B79B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C5CDDA-EC4B-4527-A947-F549C49EC14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C5CDDA-EC4B-4527-A947-F549C49EC14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C5CDDA-EC4B-4527-A947-F549C49EC14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C5CDDA-EC4B-4527-A947-F549C49EC14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3E3550-C97E-4A96-9EF9-143C738FD92D}
+	EndGlobalSection
+EndGlobal
